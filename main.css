@@ -647,8 +647,8 @@ section,
 }
 
 .resume .resume-item h4 {
-  line-height: 18px;
-  font-size: 18px;
+  line-height: 16px;
+  font-size: 16px;
   font-weight: 500;
   text-transform: uppercase;
   color: color-mix(in srgb, var(--default-color), transparent 20%);
